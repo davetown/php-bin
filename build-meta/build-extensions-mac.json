@@ -14,6 +14,7 @@
     "mbregex",
     "opcache",
     "openssl",
+    "pcntl",
     "pdo",
     "sqlite3",
     "pdo_sqlite",
