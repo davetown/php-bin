@@ -14,7 +14,6 @@
     "mbregex",
     "opcache",
     "openssl",
-    "pcntl",
     "pdo",
     "sqlite3",
     "pdo_sqlite",
@@ -24,5 +23,6 @@
     "sockets",
     "tokenizer",
     "xml",
-    "zip"
+    "zip",
+    "pcntl"
 ]
